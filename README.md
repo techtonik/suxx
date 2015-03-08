@@ -9,6 +9,17 @@
  * it is a plain text file that can not be parsed
  * you need to pass GitHub registration and know the interface
 
+- [Python](#python)
+    - [virtualenv](#virtualenv)
+
+## Python
+
+### virtualenv
+
+`virtualenv` (python-virtualenv) suxx, because
+
+ * you can't just login and logout from the env, you need to `activate` it
+
 ## Competitors
 
  * theory.org your language sucks
