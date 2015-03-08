@@ -1,7 +1,6 @@
 > "When it started out, it was an awful lot of fun." (c) Alan Perlis
 
-## Suxx Tracker suxx
-
+<br/>
 `suxx-tracker` suxx, because
 
  * its name is ugly in both lower and Capitalized Case
