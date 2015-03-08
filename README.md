@@ -22,5 +22,5 @@
 
 ## Competitors
 
- * theory.org your language sucks
+ * https://wiki.theory.org/YourLanguageSucks
 
