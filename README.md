@@ -22,11 +22,12 @@
 
  * you can't just login and logout from the env, you need to `activate` it
 
-## Ubuntu PPA and Launchpad
+## Ubuntu PPA
 
-`Ubuntu PPA` suxx, becuase you can't just `install inkscape from https://launchpad.net/~inkscape.dev/+archive/ubuntu/stable`.
+`Ubuntu PPA` suxx, because
 
-`PPA pages on Launchpad` suxx, because the page at https://launchpad.net/~inkscape.dev/+archive/ubuntu/stable doesn't contain a single *visible* command needed just to the istall the stuff right away.
+ * you can't just `install inkscape from https://launchpad.net/~inkscape.dev/+archive/ubuntu/stable`.
+ * `PPA launchpad pages` like https://launchpad.net/~inkscape.dev/+archive/ubuntu/stable just don't have a straightforward single *visible* command needed to the istall the stuff right away
 
 ## Competitors
 
