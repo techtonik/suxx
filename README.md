@@ -27,7 +27,7 @@
 `Ubuntu PPA` suxx, because
 
  * you can't just `install inkscape from https://launchpad.net/~inkscape.dev/+archive/ubuntu/stable`.
- * `PPA launchpad pages` like https://launchpad.net/~inkscape.dev/+archive/ubuntu/stable just don't have a straightforward single *visible* command needed to the istall the stuff right away
+ * `PPA launchpad pages` like https://launchpad.net/~inkscape.dev/+archive/ubuntu/stable just don't have a straightforward single *visible* command needed to the istall the stuff right away ([launchpad#1458513](https://bugs.launchpad.net/launchpad/+bug/1458513))
 
 ## Competitors
 
