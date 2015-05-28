@@ -9,10 +9,22 @@
 
 ## Suxx Tracker Contents
 
+- [Mailman](#mailman)
+
 - [Python](#python)
     - [virtualenv](#virtualenv)
 
 - [Ubuntu PPA](#ubuntu)
+
+## Mailman
+
+`mailman` 2.x mailing list software suxx, because
+
+ * it doesn't have search button for its archives
+ * you can't reply to the thread if you're not already subscribed
+ * you can't subscribe only to threads you're interested in
+ * if you are not subscribed, there is no guaranteed mail delivery
+   because it is not clear if you address will be added to CC
 
 ## Python
 
