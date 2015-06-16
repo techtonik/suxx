@@ -7,7 +7,9 @@
  * it is a plain text file that can not be parsed
  * you need to pass GitHub registration and know the interface
 
-## Suxx Tracker Contents
+## Contents
+
+- [GCC](#gcc)
 
 - [Mailman](#mailman)
 
@@ -15,6 +17,15 @@
     - [virtualenv](#virtualenv)
 
 - [Ubuntu PPA](#ubuntu)
+
+
+## GCC
+
+`gcc 4.x` suxx, because:
+
+    $ gcc main.c
+    $ ls main*
+    main.c
 
 ## Mailman
 
