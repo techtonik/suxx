@@ -39,6 +39,12 @@
 
 ## Python
 
+### python.org as a community site
+
+ * proprietary owned by PSF (there is signs that it is open source)
+ * code you can hardly reuse after learning, because of verbose license with no owner
+ * doesn't give credits to people who have contributed (everything links to PSF)
+
 ### Python 3
 
  * it suxx, because it managed to ship `venv` module with all suxx facts from `virtualenv` chapter below
