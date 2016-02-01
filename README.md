@@ -39,11 +39,16 @@
 
 ## Python
 
+### Python 3
+
+ * it suxx, because it managed to ship `venv` module with all suxx facts from `virtualenv` chapter below
+
 ### virtualenv
 
 `virtualenv` (python-virtualenv) suxx, because
 
  * you can't just login and logout from the env, you need to `activate` it
+ * you can't just refence sctipt in virtualenv - you need platform-aware conditional to choose `bin/` on Linux and `Scripts\` on Windows
 
 ## Ubuntu PPA
 
