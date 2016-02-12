@@ -48,6 +48,14 @@
 ### Python 3
 
  * it suxx, because it managed to ship `venv` module with all suxx facts from `virtualenv` chapter below
+ * it suxx, because for some reason binary data is now math (integers)
+```#!python
+line = b'12345'
+if line[0] == b'1':
+  print('python 2')
+else:
+  print('python 3')
+```
 
 ### virtualenv
 
