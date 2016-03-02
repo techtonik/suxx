@@ -16,6 +16,7 @@
 - [Python](#python)
     - [python.org](#pythonorg-as-a-community-site)
     - [python 3](#python-3)
+    - [stdlib.re](#stdlib.re)
     - [virtualenv](#virtualenv)
 
 - [Ubuntu PPA](#ubuntu)
@@ -58,6 +59,10 @@ if line[0] == b'1':
 else:
   print('python 3')
 ```
+
+### stdlib.re
+
+`$` matches before `\n`, but not before `\r\n`. It suxx that docs for `$` [don't mention](https://docs.python.org/2/library/re.html#regular-expression-syntax) that this created problems on Windows stdout processing and files read in text mode (default behaviour, which suxx as well).
 
 ### virtualenv
 
