@@ -16,7 +16,7 @@
 - [Python](#python)
     - [python.org](#pythonorg-as-a-community-site)
     - [python 3](#python-3)
-    - [stdlib.re](#stdlib.re)
+    - [stdlib.re](#stdlibre)
     - [virtualenv](#virtualenv)
 
 - [Ubuntu PPA](#ubuntu)
