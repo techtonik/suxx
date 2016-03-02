@@ -14,9 +14,8 @@
 - [Mailman](#mailman)
 
 - [Python](#python)
-- 
--   - [python.org](#pythonorg-as-a-community-site)
--   - [python 3](#python-3)
+    - [python.org](#pythonorg-as-a-community-site)
+    - [python 3](#python-3)
     - [virtualenv](#virtualenv)
 
 - [Ubuntu PPA](#ubuntu)
