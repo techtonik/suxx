@@ -4,8 +4,9 @@
 
  * its name is ugly in both lower and Capitalized Case
  * it is too verbose and too concise at the same time
- * it is a plain text file that can not be parsed
- * you need to pass GitHub registration and know the interface
+ * it lacks structure that can be automatically processed
+   * there is no permalinks
+ * you need registration and be familiar with GitHub
 
 ## Contents
 
