@@ -48,6 +48,7 @@
  * proprietary owned by PSF (there is no sign that it is open source)
  * code is not reusable because of verbose license with no owner
  * doesn't credit people who contributed to it (everything links to PSF)
+ * there is no understanding of ux in development involvement
 
 ### Python 3
 
