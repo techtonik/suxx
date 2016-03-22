@@ -20,6 +20,8 @@
     - [stdlib.re](#stdlibre)
     - [virtualenv](#virtualenv)
 
+- [tar](#tar)
+
 - [Ubuntu PPA](#ubuntu)
 
 
@@ -72,6 +74,11 @@ else:
 
  * you can't just login and logout from the env, you need to `activate` it
  * you can't just refence sctipt in virtualenv - you need platform-aware conditional to choose `bin/` on Linux and `Scripts\` on Windows
+
+
+## tar
+
+**tar.gz**, **tar.*** archive formats suxx for extracting  random files. https://en.wikipedia.org/wiki/Tar_(computing)#Random_access
 
 ## Ubuntu PPA
 
