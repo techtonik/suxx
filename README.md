@@ -47,6 +47,8 @@
 
 ### python.org as a community site
 
+ * developers don't care about people who are learning web development
+   (https://github.com/python/pythondotorg/pull/912)
  * proprietary owned by PSF (there is no sign that it is open source)
  * code is not reusable because of verbose license with no owner
  * doesn't credit people who contributed to it (everything links to PSF)
