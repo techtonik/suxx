@@ -10,6 +10,8 @@
 
 ## Contents
 
+- [Bash](#bash)
+
 - [GCC](#gcc)
 
 - [Mailman](#mailman)
@@ -24,6 +26,21 @@
 
 - [Ubuntu PPA](#ubuntu)
 
+## Bash
+
+`bash` suxx, because:
+
+    $ cat test.sh
+    sh -c "exit 102"
+    echo $?
+    echo Done.
+    $ bash test.sh 
+    102
+    Done.
+    $ echo $?
+    0
+
+it doesn't [fail on errors](https://stackoverflow.com/questions/2870992/automatic-exit-from-bash-shell-script-on-error).
 
 ## GCC
 
