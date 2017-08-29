@@ -17,6 +17,7 @@
 - [Mailman](#mailman)
 
 - [Python](#python)
+    - [jinja2](#jinja2)
     - [python.org](#pythonorg-as-a-community-site)
     - [python 3](#python-3)
     - [stdlib.re](#stdlibre)
@@ -61,6 +62,11 @@ it doesn't [fail on errors](https://stackoverflow.com/questions/2870992/automati
    because it is not clear if you address will be added to CC
 
 ## Python
+
+### Jinja 2
+
+ * Doesn't provide ability to list all template variables
+   https://github.com/pallets/jinja/issues/174
 
 ### python.org as a community site
 
