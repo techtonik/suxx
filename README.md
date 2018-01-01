@@ -12,7 +12,7 @@
 
 - [Bash](#bash)
 
-- [C++](#c++)
+- [C++](#c)
 
 - [GCC](#gcc)
 
@@ -49,7 +49,7 @@ it doesn't [fail on errors](https://stackoverflow.com/questions/2870992/automati
 
 `C++` suxx, because
 
-You can not just override fields from parent class like you do in Python:
+You can not simply override fields from parent class like you do in Python:
 
 ```
 class Driver(object):
@@ -68,6 +68,8 @@ SpecificDriver()
 
 * https://stackoverflow.com/questions/36964242/access-overridden-field-in-constructor-without-templates
 * https://stackoverflow.com/questions/37360302/c-cant-access-child-property-from-parent
+* https://gist.github.com/techtonik/ce85e2e5e1773e02f91cb8e1156d049a
+
 
 ## GCC
 
