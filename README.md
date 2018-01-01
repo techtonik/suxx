@@ -12,6 +12,8 @@
 
 - [Bash](#bash)
 
+- [C++](#c++)
+
 - [GCC](#gcc)
 
 - [Mailman](#mailman)
@@ -42,6 +44,30 @@
     0
 
 it doesn't [fail on errors](https://stackoverflow.com/questions/2870992/automatic-exit-from-bash-shell-script-on-error).
+
+## C++
+
+`C++` suxx, because
+
+You can not just override fields from parent class like you do in Python:
+
+```
+class Driver(object):
+  name = "Unknown"
+  def __init__(self):
+    print(self.name)
+
+class SpecificDriver(Driver):
+  name = "Specific"
+  def __init__(self):
+    super(SpecificDriver, self).__init__()
+
+Driver()
+SpecificDriver()
+```
+
+* https://stackoverflow.com/questions/36964242/access-overridden-field-in-constructor-without-templates
+* https://stackoverflow.com/questions/37360302/c-cant-access-child-property-from-parent
 
 ## GCC
 
