@@ -1,12 +1,6 @@
 > "When it started out, it was an awful lot of fun." (c) Alan Perlis
 
-`suxx-tracker` suxx, because
-
- * its name is ugly in both lower and Capitalized Case
- * it is too verbose and too concise at the same time
- * it lacks structure that can be automatically processed
-   * there is no permalinks
- * you need registration and be familiar with GitHub
+> "A depressive reminder that the world is still not a better place."
 
 ## Contents
 
